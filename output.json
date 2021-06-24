@@ -31,6 +31,10 @@
         {
             "invoke": "random.pr",
             "write_to": "Random.swift"
+        },
+        {
+            "invoke": "random_nested.pr",
+            "write_to": "First/Second/Third/Random.swift"
         }
     ]
 }
