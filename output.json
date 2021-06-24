@@ -27,6 +27,10 @@
         {
             "invoke": "typography.pr",
             "write_to": "Styles/FontExtension.swift"
+        },
+        {
+            "invoke": "random.pr",
+            "write_to": "Random.swift"
         }
     ]
 }
