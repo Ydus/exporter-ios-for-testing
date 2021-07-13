@@ -30,11 +30,11 @@
         },
         {
             "invoke": "random.pr",
-            "write_to": "Random.swift"
+            "write_to": "RootRandom.swift"
         },
         {
             "invoke": "random_nested.pr",
-            "write_to": "First/Second/Third/Random.swift"
+            "write_to": "First/Second/Third/NestedRandom.swift"
         }
     ]
 }
